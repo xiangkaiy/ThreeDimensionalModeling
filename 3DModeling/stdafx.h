@@ -39,8 +39,8 @@
 
 #include <vector>
 using namespace std;
-#include <glut.h>
-#include <glaux.h>
+#include <gl/glut.h>
+#include <gl/glaux.h>
 #include <iostream>
 #include <fstream>
 #include <string>
