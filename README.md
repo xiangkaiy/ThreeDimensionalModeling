@@ -13,4 +13,6 @@
 2.glut.lib,glut32.lib,glaux.lib放到静态函数库所在文件夹（即与include并排的lib文件夹下）  
 3.glut.dll和glut32.dll放到操作系统目录下面的system32文件夹内。（典型的位置为：C:\Windows\System32）  
 
-![这里写图片描述](https://github.com/xiangkaiy/ThreeDimensionalModeling/blob/master/Images/avatar.jpg)
+![3D茶壶](https://github.com/xiangkaiy/ThreeDimensionalModeling/blob/master/Images/1.jpg)
+![旋转之后的3D茶壶](https://github.com/xiangkaiy/ThreeDimensionalModeling/blob/master/Images/2.jpg)
+![模拟壶盖掉落](https://github.com/xiangkaiy/ThreeDimensionalModeling/blob/master/Images/3.jpg)
