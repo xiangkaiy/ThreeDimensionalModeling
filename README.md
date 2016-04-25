@@ -14,6 +14,8 @@
 2.glut.lib,glut32.lib,glaux.lib放到静态函数库所在文件夹（即与include并排的lib文件夹下）  
 3.glut.dll和glut32.dll放到操作系统目录下面的system32文件夹内。（典型的位置为：C:\Windows\System32）  
 
+链接OpenGL libraries。在Visual C++中先右击项目，选择属性，找到连接器标签，最后在输入中的附加依赖库加上 opengl32.lib glut32.lib glu32.lib glaux.lib.  
+
 ##下面是效果图
 ###3D茶壶
 ![3D茶壶](https://github.com/xiangkaiy/ThreeDimensionalModeling/blob/master/Images/1.jpg)  
